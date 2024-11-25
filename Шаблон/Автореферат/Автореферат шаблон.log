@@ -1,0 +1,78 @@
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2024.11.24)  24 NOV 2024 17:24
+ restricted system commands enabled.
+**"Автореферат шаблон.tex"
+("./Автореферат шаблон.tex"
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/user/AppData/Local/MiKTeX/
+luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "C:/Users/user/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/fo
+ntloader-2023-08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/user/AppData/Local/MiKTeX/
+luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (./SCWorks.cls
+(C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+luaotfload | db : Font names database not found, generating new one.
+luaotfload | db : This can take several minutes; please be patient.)
+(C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen139
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:/Users/user/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:/Users/user/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+Packa
